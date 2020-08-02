@@ -149,7 +149,7 @@ def main():
         x_dat, y_dat, z_dat, xi_dat = [],[],[],[]
 
         t = t0                       # Start time in 1/w_p
-        dt = 0.01                   # Time step in 1/w_p
+        dt = 0.005                   # Time step in 1/w_p
         xn = x_0                     # Positions in c/w_p
         yn = y_0
         xin = xi_0
